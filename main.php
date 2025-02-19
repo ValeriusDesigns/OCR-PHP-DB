@@ -8,8 +8,8 @@ $count_result = $count_stmt->get_result();
 $documentsCount = $count_result->fetch_assoc()['documentsCount'];
 $count_stmt->close();
 
-// Letzte 20 hochgeladene Dateien abrufen
-$last_stmt = $conn->prepare("SELECT id, filename, file_path, created_at FROM documents ORDER BY created_at DESC LIMIT 20");
+// Letzte 18 hochgeladene Dateien abrufen
+$last_stmt = $conn->prepare("SELECT id, filename, file_path, created_at FROM documents ORDER BY created_at DESC LIMIT 18");
 $last_stmt->execute();
 $last_result = $last_stmt->get_result();
 
