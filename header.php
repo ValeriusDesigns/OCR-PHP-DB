@@ -11,9 +11,9 @@
    <meta name="x5-orientation" content="portrait">
    <meta name="apple-mobile-web-app-title" content="SYNOCR DB">
    <meta name="apple-mobile-web-app-capable" content="yes">
-   <link rel="apple-touch-icon" href="assets/180x180.png" type="image/png" />
+   <link rel="apple-touch-icon" sizes="180x180" href="assets/180x180.png">
    <link rel="icon" href="assets/192x192.png" type="image/png" />
-   <link rel="fav-icon" href="assets/48x48.png" type="image/png" />
+   <link rel="icon" type="image/x-icon" href="assets/favicon.ico">
    <link rel="manifest" href="manifest.php">
 </head>
 
