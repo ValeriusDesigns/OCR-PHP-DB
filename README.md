@@ -17,3 +17,9 @@ Voraussetzungen:
 Installation:
 
 Detaillierte Schritt-für-Schritt-Anleitung zur Installation und Konfiguration in der Web Station ist im Video enthalten.
+
+https://youtu.be/DqQXthxbbkA?si=uqOTay8v3smCY9x7
+
+Hier geht es zu Synology Forum Post
+
+https://www.synology-forum.de/threads/ocr-php-db-weboberflaeche-fuer-synocr.137744/
