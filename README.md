@@ -10,7 +10,7 @@ Funktionen:
 	•	Einfache Suche nach Dokumenten, Rechnungen und anderen Inhalten.
 
 Voraussetzungen:
-	•	PHP 7+
+	•	PHP 8+
 	•	MariaDB oder eine kompatible Datenbank
 	•	Ein OCR-Ordner, z. B. von synOCR
 
